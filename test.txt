@@ -1,0 +1,7 @@
+hello friends
+<<<<<<< HEAD
+edit in feature branch
+done
+=======
+hi bye
+>>>>>>> feat
